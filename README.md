@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-xfer-auth">sqlite-xfer-auth</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-xfer-auth"><strong>https://abraxaslabs.tech/research/sqlite-xfer-auth</strong></a>
+</p>
+
 
 # sqlite-xfer-auth
 
